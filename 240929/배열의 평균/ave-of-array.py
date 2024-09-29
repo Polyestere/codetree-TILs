@@ -15,4 +15,4 @@ print()
 for i in column_mean:
     print('%.1f'% (i/2),end = ' ')
 print()
-print(all_mean/8)
+print('%.1f'%(all_mean/8))
